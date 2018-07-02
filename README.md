@@ -1,25 +1,6 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-
-# Project 0: The Game
-
-**Read this entire document before writing a line of code.**
-
 ### Overview
 
-Let's start out with something fun - **a game!**
-
-![](https://media.giphy.com/media/u0vk7qdooz5Cg/giphy.gif)
-
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe and a Memory game, it's your turn to plan and implement a game from scratch.
-
-**You will be working individually for this project**, but we'll be guiding you as you get started. Show us what you've got!
-
----
-
-### Timeline
-
-* **Assigned:** Thursday, December 8th
-* **Due:** Monday, December 12th at 9:00AM
+Let's build **a game!**
 
 ---
 
@@ -32,9 +13,7 @@ Your app must:
 * **Include separate HTML, CSS, and JavaScript files**
 * Use **native Javascript or jQuery** for **DOM manipulation**
 * Be **deployed publicly online**, where the rest of the world can access it (using a github pages project page or bitballoon)
-* Use **semantic markup** for HTML and CSS (adhere to best practices)
 * Include **custom styling** to convey the state of the game visually (and differentiate your project from any CSS libraries used)
-* Demonstrate attention to code quality with a **DRY (Don't Repeat Yourself)** codebase that is **"clean" (well-indented, appropriately commented, organized)** and **readable.** Actually ask somebody else in the class to read your code and see if they can understand it!
 
 ---
 
@@ -45,8 +24,6 @@ Your app must:
 * A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
 * **A `readme.md` file** with a short description of the project, a list of which technologies you used for which parts of the app, an explanation of your approach (share some part of the code), and optionally a list of unsolved problems,  screenshots, etc.  See the [example readme](https://github.com/sf-wdi-34/readme-example).
 * A **link to your hosted working game** in your game's Github repo.
-* A **link to your hosted working game** in the "my work" section of your personal website.
-* **[Fill out this spreadsheet](https://docs.google.com/spreadsheets/d/1vzxkkVwX2zU40BZArMknoHMYlu_5bVmyNYAEBMJXH5E/edit?usp=sharing)** with your project links.
 
 ---
 
@@ -66,7 +43,6 @@ Your app must:
 
 ####Racing Game
 
-**We suggest and expect that most of you will build a racing game**. Two or more players should be able to use the keyboard to move their "cars" across the browser window.
 
 <img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width="60%">
 
@@ -90,18 +66,6 @@ The player bets money (or points) on guessing which card the computer will deal 
 
 Create a deck of flash cards that have prompts on one side and answers on the other.  After seeing each answer, a player can choose to either keep the card in the deck for more practice or decide they remember it well and remove it from the deck. Once the player has remembered all cards in the deck, they get a win screen.
 
-##### Battleship
-
-The player can challenge the computer, each taking turns trying to sink the other's ships. The one who sinks the other's ships first wins! The game board should show the player's fleet with hit trackers. It should also show a map of where the player's guesses have hit and missed.
-
-
-**Hints**
-* Start with just one size of ship.  
-* Start by building a one-dimensional battleship game.  
-* Don't let the player decide where to place their ships, to start.
-
-</details>
-
 ---
 
 ### Sample projects
@@ -109,6 +73,8 @@ The player can challenge the computer, each taking turns trying to sink the othe
 * [Chiggen Chase](https://serabakpak.github.io/chiggen-chase/) - a racing game
 * [Labyrinth game](https://14budig.github.io/labyrinth-game/) - find the yellow coin and get to the orange exit while avoiding the red Minotaur.
 * [Bubble pop game](https://samdarbonne.github.io/sams-racing-game/) - pop the bubbles and try to beat the records.
+* [Cuddle Dungen](http://cuddledungeon.bitballoon.com/) - Simple RPG style game
+* [Boogie Down](http://boogie-down.herokuapp.com/) - A trivia game inside the human body.
 
 
 ### Extra Challenge Ideas
@@ -123,17 +89,6 @@ These are some ideas that could take your game "above and beyond." **Don't focus
 * Add **timers** like a countdown timer ("3, 2, 1, Go!"), track the winning time, or track the best time across multiple rounds.
 * **Play against a bot**.
 * Integrate with a **3rd party API**: flickr, youtube, spotify, giphy, etc.
-
----
-### Essential Skills
-
-By the time you submit this project, you should focus on leveling up in important skill areas:
-
-* **Terminal**: Practice interacting with the computer and navigating the file-system from the Command Line.
-* **Git**: Manage and interact with a git repository to store changes to code.
-* **JavaScript and jQuery Fundamentals**: Work with objects and events, while strategically solving problems and resolving errors.
-* **HTML and CSS**: Work on HTML structure, CSS styles, and perhaps even animating elements within a browser. Respond to actions your users take and the data they input into the browser.
-* **Documentation**: Document your code and your GitHub repository so others understand what you've built.
 
 ---
 
@@ -157,14 +112,3 @@ By the time you submit this project, you should focus on leveling up in importan
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class?
 
 * __Deployment__: Did you deploy your application to a public url using GitHub Pages?
-
-* __Total__: Your instructors score each category above on the following scale:
-
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete (not attempted)._
-    **1** | _Does not meet expectations. Work on this._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, wow!_
-
- You will receive a total score that is a composite of these scores. This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones for each category__ above, which can help you identify where to focus your efforts for the next project!
