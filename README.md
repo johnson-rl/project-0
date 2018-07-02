@@ -1,3 +1,10 @@
+### Up until now:
+
+1) HTML + CSS
+2) JS Challenges
+3) Putting it all together with Jquery
+4) Making a fully functional App!!!
+
 ### Overview
 
 Let's build **a game!**
